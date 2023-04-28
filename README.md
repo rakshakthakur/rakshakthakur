@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakshakthakur
-- 👀 I’m interested in Python and Django 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django related backend projects
+- 👀 I’m interested in MERN Full Stack Developer
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on MERN related frontend and backend projects
 - 📫 How to reach me ... rakshakthakur0789@gmail.com
 
 <!---
